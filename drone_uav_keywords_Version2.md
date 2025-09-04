@@ -135,3 +135,258 @@
 135. UAV lidar
 136. UAV GIS
 137. UAV remote sensing startup
+drone
+drones
+UAV
+UAS
+RPAS
+sUAS
+multirotor
+quadcopter
+hexacopter
+octocopter
+fixed-wing drone
+hybrid VTOL
+VTOL
+eVTOL
+tethered drone
+autonomous drone
+teleoperated drone
+drone swarm
+swarm intelligence
+micro UAV
+BVLOS
+VLOS
+EVLOS
+Remote ID
+UTM
+U-Space
+LAANC
+airspace authorization
+Digital Sky
+NPNT
+UIN
+UAOP
+DGCA
+Drone Rules 2021
+Drone Amendment 2022
+RPTO
+type certification
+airworthiness
+SOP (Standard Operating Procedure)
+no-fly zone
+geofencing
+geocaging
+airspace map
+NOTAM
+green zone
+yellow zone
+red zone
+BVLOS trials
+drone corridor
+Drone Shakti
+payload capacity
+endurance
+flight time
+battery management
+lithium polymer
+Li-ion battery
+hydrogen fuel cell
+hybrid powertrain
+propeller design
+BLDC motor
+ESC (electronic speed controller)
+redundant systems
+EMI/EMC
+gimbal
+LiDAR
+RGB camera
+multispectral
+hyperspectral
+thermal imaging
+FLIR
+RTK
+PPK
+GNSS
+IMU
+magnetometer
+barometer
+altimeter
+optical flow
+SLAM
+VIO (visual-inertial odometry)
+photogrammetry
+orthomosaic
+point cloud
+DSM
+DTM
+mesh reconstruction
+GCP (ground control points)
+camera calibration
+rolling shutter
+geotagging
+time sync
+NDVI
+rangefinder
+ultrasonic sensor
+lidar altimeter
+ground control station
+GCS
+MAVLink
+PX4
+ArduPilot
+QGroundControl
+DJI SDK
+ROS
+ROS2
+waypoint mission
+mission planning
+sense and avoid
+obstacle avoidance
+collision avoidance
+return to home
+2.4 GHz
+5.8 GHz
+LTE
+5G
+satcom
+mesh networking
+telemetry
+video downlink
+C2 link
+encryption
+cybersecurity
+secure telemetry
+firmware
+OTA updates
+diagnostics
+health monitoring
+predictive maintenance
+edge AI
+onboard AI
+computer vision
+object detection
+object tracking
+YOLO
+semantic segmentation
+path planning
+mapping and localization
+simultaneous localization
+PID tuning
+EKF
+sensor fusion
+Kalman filter
+agriculture drones
+precision agriculture
+crop monitoring
+spraying drone
+seeding drone
+fertilizer spraying
+construction mapping
+land surveying
+mining survey
+volumetrics
+stockpile measurement
+powerline inspection
+telecom tower inspection
+wind turbine inspection
+solar farm inspection
+oil and gas inspection
+pipeline inspection
+bridge inspection
+search and rescue
+disaster response
+wildfire mapping
+medical delivery
+drone delivery
+last-mile delivery
+urban air mobility
+AAM (advanced air mobility)
+drone taxi
+cinematography drone
+real estate photography
+wildlife monitoring
+conservation mapping
+environmental monitoring
+air quality monitoring
+coastal monitoring
+bathymetric lidar
+maritime surveillance
+fisheries monitoring
+anti-poaching
+survey accuracy
+startup
+accelerator
+incubator
+angel investment
+seed round
+Series A
+Series B
+venture capital
+valuation
+cap table
+term sheet
+dilution
+runway
+burn rate
+ARR
+MRR
+pricing model
+unit economics
+go-to-market
+pilot project
+PoC (proof of concept)
+MVP
+field trials
+certification testing
+compliance
+export control
+SCOMET
+ITAR
+offset policy
+defense procurement
+UTM service provider
+network Remote ID
+broadcast Remote ID
+strategic deconfliction
+tactical deconfliction
+conformance monitoring
+tracking
+airspace authorization API
+geofencing unlock
+forensic analysis
+counter-drone
+C-UAS
+RF detection
+radar detection
+EO/IR detection
+acoustic detection
+geolocation
+jamming
+spoofing
+interceptor drone
+mapping software
+Pix4D
+Agisoft Metashape
+OpenDroneMap
+cloud processing
+orthorectification
+bundle adjustment
+camera model
+EXIF
+KML
+GeoJSON
+WMS
+WFS
+tile server
+API
+DJI
+Parrot
+Skydio
+Autel Robotics
+Teledyne FLIR
+senseFly eBee
+Wingtra
+Delair
+AeroVironment
+ideaForge
