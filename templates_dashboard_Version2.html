@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Drone/UAV News Dashboard</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+  <div class="container mt-4">
+    <h1 class="mb-4">Drone & UAV Startup Ecosystem News</h1>
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th>Keyword</th>
+          <th>Title</th>
+          <th>Summary</th>
+          <th>Date</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for article in articles %}
+        <tr>
+          <td>{{ article.keyword }}</td>
+          <td><a href="{{ article.url }}" target="_blank">{{ article.title }}</a></td>
+          <td>{{ article.summary[:200] }}...</td>
+          <td>{{ article.date[:19].replace('T', ' ') }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+    <p><a href="/data">Download Full JSON Data</a></p>
+  </div>
+</body>
+</html>
